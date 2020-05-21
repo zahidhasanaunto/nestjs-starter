@@ -2,17 +2,17 @@
   "PORT": 3000,
   "API": {
     "PREFIX": "api/v1",
-    "TITLE": "Prava Health API",
-    "DESC": "Prava Health API",
+    "TITLE": "NestJS Starter",
+    "DESC": "NestJS Starter",
     "VERSION": "1.0"
   },
   "DATABASE": {
     "TYPE": "postgres",
     "PORT": 5432,
     "HOST": "localhost",
-    "USER": "pravahealth",
-    "PASSWORD": "pravahealthPassword",
-    "DATABASE": "pravahealth"
+    "USER": "user",
+    "PASSWORD": "userPassword",
+    "DATABASE": "user"
   },
   "JWT": {
     "SECRET": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8k3x3Wi9V3kMkYu9tjDaSRD2cBjOgp3FQU/Gndlced9WsaVNx3lgkbbS47sPpFMdQVSgmGbRqhaj9vUrD56+QOMn5HuxeAp5VMwwD$",

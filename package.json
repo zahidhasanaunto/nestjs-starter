@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "Prava Health",
+  "description": "NestJS Starter",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
